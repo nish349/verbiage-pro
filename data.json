@@ -402,34 +402,7 @@
     "Scenario":"Cancelled Claim Request Upheld",
     "Short Summary":"Cancelled Claim \u2013 Timely Filing",
     "Decision Code":"CLTFL",
-    "Verbiage":"We have determined that the request to waive timely filing is upheld. The original claim (OriginalDCN) submitted by the provider on (receivedDate) and was rejected on (ClaimDeleteDate). According to the providers timely filing contract limit, you have (tflLimitDays) days to submit corrected claim. Please note that we received the corrected claim on (updatedClaimReceivedDate), which is outside the allowed time period. If you have additional evidence that the claim in question was filed in a timely manner, please provide it to us so that we may consider this matter further."
-  },
-  {
-    "Coded By":"User",
-    "Primary Category":"D25",
-    "Secondary Category":"Other",
-    "Scenario":null,
-    "Short Summary":"D25 Policy 1",
-    "Decision Code":"D25P1",
-    "Verbiage":"In accordance with the Health Plan\u2019s Bundled Services and Supplies Reimbursement Policy,\u00a0certain services and supplies, such as\u00a0(cptCode),\u00a0are considered to be ineligible for separate reimbursement when reported by a professional provider. These services and\/or supplies may not be reported with a primary service or as a standalone service."
-  },
-  {
-    "Coded By":"User",
-    "Primary Category":"D25",
-    "Secondary Category":"Other",
-    "Scenario":null,
-    "Short Summary":"D25 Policy 2",
-    "Decision Code":"D25P2",
-    "Verbiage":"In accordance with the Health Plan\u2019s Bundled Services and Supplies Reimbursement Policy,\u00a0(policyNumber)\u00a0is not eligible for separate reimbursement when reported with (cptCode)\u00a0by a professional provider. In most cases, modifiers will not override the denial when reported with a specified service or supply."
-  },
-  {
-    "Coded By":"User",
-    "Primary Category":"D25",
-    "Secondary Category":"Other",
-    "Scenario":null,
-    "Short Summary":"D25 Policy 3",
-    "Decision Code":"D25P3",
-    "Verbiage":"In accordance with the Health Plan\u2019s Bundled Services and Supplies Reimbursement Policy, (cptCode)\u00a0is not eligible for separate reimbursement when performed with any other procedure, service or supply. Modifiers 59, XE, XP, XS or XU will not override the denial for the services when they are reported with any other procedure, service or supply."
+    "Verbiage":"The documentation received is not sufficient to wave timely filing. The original claim (OriginalDCN) submitted by the provider on (receivedDate) and was rejected on (ClaimDeleteDate). According to the providers timely filing contract limit, you have (tflLimitDays) days to submit corrected claim. Please note that we received the corrected claim on (updatedClaimReceivedDate), which is outside the allowed time period. If you have additional evidence that the claim in question was filed in a timely manner, please provide it to us so that we may consider this matter further."
   },
   {
     "Coded By":"User",
