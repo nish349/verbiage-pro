@@ -402,7 +402,7 @@
     "Scenario":"Cancelled Claim Request Upheld",
     "Short Summary":"Cancelled Claim \u2013 Timely Filing",
     "Decision Code":"CLTFL",
-    "Verbiage":"The documentation received is not sufficient to wave timely filing. The original claim (OriginalDCN) submitted by the provider on (receivedDate) and was rejected on (ClaimDeleteDate). According to the providers timely filing contract limit, you have (tflLimitDays) days to submit corrected claim. Please note that we received the corrected claim on (updatedClaimReceivedDate), which is outside the allowed time period. If you have additional evidence that the claim in question was filed in a timely manner, please provide it to us so that we may consider this matter further."
+    "Verbiage":"The documentation received is not sufficient to wave timely filing. The original claim (OriginalDCN) submitted by the provider on (receivedDate) and was rejected on (ClaimDeleteDate). According to the providers timely filing contract limit, you have (tflLimitDays) days to re-submit the claim with correct information. Please note that we received the claim with correction on (updatedClaimReceivedDate), which is outside the allowed time period. If you have additional evidence that the claim in question was filed in a timely manner, please provide it to us so that we may consider this matter further."
   },
   {
     "Coded By":"User",
@@ -492,7 +492,7 @@
     "Scenario":null,
     "Short Summary":"LabCorp-Related Denial",
     "Decision Code":"NOLABC",
-    "Verbiage":"We have determined that the charges for the services rendered have been\u00a0 correctly denied under the patient's medical plan. We denied this service because the lab work wasn't done by LabCorp, our contracted facility. No further adjustment is required. Therefore upholding the case."
+    "Verbiage":"We have determined that the charges for the services rendered have been\u00a0 correctly denied under the patient's medical plan. We denied this service because the lab work wasn't done by our contracted facility. No further adjustment is required. Therefore upholding the case."
   },
   {
     "Coded By":"User",
