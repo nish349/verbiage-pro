@@ -619,5 +619,23 @@
     "Short Summary":"Sweep Adjustment Decision",
     "Decision Code":"SWEEPD",
     "Verbiage":"The claim was adjusted under Sweep Adjustment . The services rendered have been processed according to your provider contract. You will receive a new Explanation of Payment and any appropriate payment within two weeks."
+  },
+  {
+    "Coded By":"User",
+    "Primary Category":"CCCR",
+    "Secondary Category":"Other",
+    "Scenario":"CCCR",
+    "Short Summary":"00W41",
+    "Decision Code":"CW41",
+    "Verbiage":"Upon review, the claim submitted from your office contains an error related to the National Drug Code (NDC) Unit of Measure. Please review and correct the unit of measure (example: ML - Milliliter, GR - Gram, UN - Unit) matches the products packaging and billing guidelines."
+  },
+  {
+    "Coded By":"User",
+    "Primary Category":"CCCR",
+    "Secondary Category":"Other",
+    "Scenario":"CCCR",
+    "Short Summary":"00W40",
+    "Decision Code":"CW40",
+    "Verbiage":"Upon review, it appears that the HCPCS (Healthcare Common Procedural Coding System) code used does not align with the National Drug Code (NDC) code provided. Resulting in an denial of reimbursement. We kindly request that you correct and resubmit the claim with the appropriate code pairing."
   }
 ]
